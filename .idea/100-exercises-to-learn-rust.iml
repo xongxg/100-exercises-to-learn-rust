@@ -3,8 +3,14 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/_05_factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_06_while/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_07_for/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_08_overflow/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/e100-exercieses/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/_05_factorial/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_06_while/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_07_for/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_08_overflow/target" />
       <excludeFolder url="file://$MODULE_DIR$/e100-exercieses/target" />
     </content>
     <orderEntry type="inheritedJdk" />
